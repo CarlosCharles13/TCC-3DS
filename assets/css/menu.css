@@ -1,0 +1,35 @@
+body{
+    background-color: #ADD9D1;
+}
+@font-face {
+font-family: Vietnam;
+src: url(../fonts/be-vietnam/BeVietnam-Bold.ttf);
+}
+@font-face {
+    font-family: Vietnam-Regular;
+    src: url(../fonts/be-vietnam/BeVietnam-Regular.ttf);
+}
+h2{
+    font-family: Vietnam;
+}
+h4{
+    font-family: Vietnam-Regular;
+}
+i{
+    color: white;
+}
+i:hover{
+    color: #e6e6e6;
+    transition-delay: 3ms;
+}
+div.tabela{
+    width: 60%;
+    margin: 30px auto;
+    padding: 0.75rem;
+}
+.table-bordered{
+    background: white;
+    color: #064752;
+    font-family: Vietnam;
+    border-radius: 25px;
+}
