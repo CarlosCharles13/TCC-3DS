@@ -8,6 +8,7 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
 	<script src="assets/js/jquery.js" type="text/javascript"></script>
 	<script src="assets/js/bootstrap.js" type="text/javascript"></script>
+  <link rel="stylesheet" href="assets/css/fonts.css">
 </head>
 <style>
 	body{
@@ -16,7 +17,7 @@
 </style>
 
 <body>
-<nav class="navbar navbar-expand-lg navbar-dark" style="background: #79B5AF; ">
+<nav class="navbar navbar-expand-lg navbar-dark" style="background: #1D858C; ">
 		<a class="navbar-brand" href="#"><img src="assets/img/logo.png" style="width: 100%; height: 100px;" alt="Simbolo Psicologia"></a>
 		
 		<div style="color: #FFFFFF; margin: 0 auto ; text-align: center ; " class="navbar-expand "  >
@@ -25,8 +26,8 @@
 		</div>
 
 			<div class="navbar-nav"  style="font-size: 32px; float:right;">
-        <a href="#.php" class= "nav-item nav-link" ><i class="fas fa-list"></i></a>
-				<a href="#.php" class="nav-item nav-link"><i class="fas fa-plus-circle"></i></a>
+      <a href="cadastrar.php" class="nav-item nav-link"><i class="fas fa-plus-circle"></i></a>
+        <a href="list_client.php" class= "nav-item nav-link" ><i class="fas fa-list"></i></a>
 				<a href="#.php"  class="nav-item nav-link"><i class="fas fa-cog"></i></a>
 		</div>
 
@@ -40,10 +41,8 @@
             <div class="d-flex justify-content-between">
               
             <h1>Cliente</h1>
-              <a href="#.php" style="font-size: 32px; color:#FFF"><i class="far fa-arrow-alt-circle-left"></i></a>
+              <a href="menu.php" style="font-size: 32px; color:#FFF"><i class="far fa-arrow-alt-circle-left"></i></a>
             </div>
-
-
 
             <table class="table table-striped table-light"  style="color: #000; text-align: center">
                 <thead class="table table-striped ">

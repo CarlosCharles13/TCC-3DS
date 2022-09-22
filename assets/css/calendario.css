@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: Delina;
-    src: url(../fonts/Delinda\ Agatha.ttf);
-}
-
 html, body{
     height: 100vh;
     display: grid;

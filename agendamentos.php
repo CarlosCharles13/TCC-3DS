@@ -6,7 +6,8 @@
     <title>Agendamentos</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="assets/css/agendamentos.css">
-        </head>
+    <link rel="stylesheet" href="assets/css/fonts.css">
+    </head>
         
         
         <body>
@@ -41,7 +42,7 @@
                             <form action="addnota.php" method="post">
                                 <div class="form-bloco">
                                     <i class="fa-solid fa-circle-plus"></i><p style="padding-top: 3px; font-size: 12px;">Adicionar nova Nota</p>
-                                </div>
+         
                             </form>
                     </nav>
                     

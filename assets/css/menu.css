@@ -1,22 +1,11 @@
 body{
     background-color: #ADD9D1;
 }
-@font-face {
-font-family: Vietnam;
-src: url(../fonts/be-vietnam/BeVietnam-Bold.ttf);
-}
-@font-face {
-    font-family: Vietnam-Regular;
-    src: url(../fonts/be-vietnam/BeVietnam-Regular.ttf);
-}
 h2{
     font-family: Vietnam;
 }
 h4{
     font-family: Vietnam-Regular;
-}
-i{
-    color: white;
 }
 i:hover{
     color: #e6e6e6;
@@ -32,4 +21,10 @@ div.tabela{
     color: #064752;
     font-family: Vietnam;
     border-radius: 25px;
+}
+#hoje{
+    width: 230px !important;
+}
+td{
+    text-align: center;
 }

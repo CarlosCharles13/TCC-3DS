@@ -1,13 +1,3 @@
-@font-face {
-    font-family: Nunito;
-    src: url(../fonts/Nunito/static/Nunito-Light.ttf);
-}
-
-@font-face{
-    font-family: Kollektif;
-    src: url(../fonts/kollektif/Kollektif.ttf);
-}
-
 body{
     background-image: url(../img/fundo.jpg);
     background-repeat: no-repeat;
